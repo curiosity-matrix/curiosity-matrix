@@ -1,7 +1,12 @@
-## Hi there 👋
+# 💫 About Me:
+<br>👯 I'm looking to collaborate on - ML classification projects and making intelligent systems.<br>🤝 I'm looking for help with - Building production-ready ML pipelines and LLM integrations.<br>🌱 I'm currently learning — Machine Learning algorithms, Scikit-learn, and automation.<br>💬 Ask me about — SQL for data analysis, Python automation, and building rule-based decision systems.<br>⚡ Fun fact — I talk to my code like it's a person… and honestly, it listens better than most people do 😅.
 
-<!--
-**curiosity-matrix/curiosity-matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritika-singh-b07baa329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:77ritikasingh77@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Here are some ideas to get you started:
 
