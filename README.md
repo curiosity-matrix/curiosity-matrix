@@ -1,39 +1,70 @@
-<!-- AESTHETIC GRADIENT WAVE BANNER -->
+<h1 align="center">Ritika Singh</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,40:1c2541,100:3a506b&height=220&section=header&text=Ritika%20Singh&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=%F0%9F%A7%A0%20Inside%20the%20Curiosity%20Matrix%20%7C%20Data%20%E2%80%A2%20Logic%20%E2%80%A2%20Machine%20Intelligence&descFontSize=16&descAlignY=58&descColor=64dfdf" width="100%" />
+  <em>Analytical Thinker • Data Analyst • AI & ML Pipeline Builder</em>
 </p>
 
-<div align="center">
-  <!-- Smooth Live Typing Animation -->
-  <a href="https://github.com/curiosity-matrix">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=64DFDF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Clean+Intelligence+%F0%9F%94%8D;Building+Automated+Pipelines+with+n8n+%26+LLMs+%E2%9A%A1;SQL+5%E2%98%85+Gold+HackerRank+%E2%80%A2+AI%2FML+Builder+%F0%9F%A7%A0;%22I+talk+to+my+code+like+it's+a+person...%22+%F0%9F%98%84" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/ritika-singh-b07baa329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:77ritikasingh77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank_SQL-5★_Gold-00EA64?style=flat&logo=hackerrank&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=curiosity-matrix&label=Views&color=555555&style=flat" />
+</p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/ritika-singh-b07baa329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:77ritikasingh77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank_SQL-Gold_5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=curiosity-matrix&label=Profile%20Visits&color=64dfdf&style=for-the-badge" alt="Views" />
-  </p>
-</div>
+<br />
+
+> *"Curiosity uncovers the hidden pattern; analytical rigor turns it into truth."*
 
 ---
 
-### 🧠 The Mental Algorithm: How I Decompose Problems
+### 🧠 How My Mind Works (The Problem-Solving Loop)
 
-> *"Curiosity asks the question; analytical rigor audits the answer."*
+Main kisi problem ko sirf code likh kar solve nahi karti, mera approach ek structured thought-process par chalta hai:
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true, 'background': '#0d1117' }}}%%
-flowchart TD
-    A["💡 1. Curiosity & Hypothesis<br/>Spotting anomalies & raw patterns"] 
-    --> B["🔍 2. Ruthless Validation<br/>Null imputation, skewness checks, sanity audits"]
-    --> C["⚡ 3. SQL & Pattern Mining<br/>Window functions, CTEs, segment analysis"]
-    --> D["🤖 4. Model Architecture<br/>SMOTE, Random Forest, ANN, Hyperparameter Tuning"]
-    --> E["📊 5. Autonomous Delivery<br/>Executive Power BI Dashboards & n8n / LLM Pipelines"]
+* **01 // SKEPTICAL AUDIT** 🔍  
+  *Never trust raw data blindly.* Machine learning model kitna bhi powerful ho, agar data mein anomalies hain toh output galat hoga. Main pehle null imputation, distributions aur edge cases ko stress-test karti hoon.
+  
+* **02 // DEEP PATTERN MINING** ⚡  
+  Surface-level metrics aksar asli story chhupa leti hain. Advanced SQL (CTEs, Window Functions) aur exploratory analysis ke zariye peak shifts aur behavioral clusters ko bahar nikalna mera core focus hota hai.
 
-    style A fill:#0b132b,stroke:#64dfdf,stroke-width:2px,color:#fff
-    style B fill:#1c2541,stroke:#48cae4,stroke-width:2px,color:#fff
-    style C fill:#1c2541,stroke:#0077b6,stroke-width:2px,color:#fff
-    style D fill:#3a506b,stroke:#7209b7,stroke-width:2px,color:#fff
-    style E fill:#0b132b,stroke:#f72585,stroke-width:2px,color:#fff
+* **03 // RESILIENT MODELING** ⚖️  
+  Accuracy se zyada business reliability matter karti hai. Class imbalance ho toh SMOTE lagana, recall aur F1-scores ko balance karna, aur models ke trade-offs ko rigorously evaluate karna.
+
+* **04 // THE AUTOMATION MINDSET** 🤖  
+  Agar kisi task ko insaan ko baar-baar copy-paste ya review karna pad raha hai, toh use automate hona chahiye. n8n pipelines aur LLMs (Ollama) ke through workflows ko zero-effort banana.
+
+---
+
+### 🛠️ Core Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,tensorflow,react,git,github,postman&theme=dark" />
+</p>
+
+<p align="center">
+  <code>Power BI</code> • <code>n8n Automation</code> • <code>Ollama (LLMs)</code> • <code>Advanced SQL (CTEs/Windows)</code> • <code>MS Excel</code>
+</p>
+
+---
+
+### 🚀 Key Projects
+
+- **Retail Sales Analysis & Executive Dashboard** `Power BI` `MySQL`  
+  2,000+ raw transactions ko clean karke season-wise revenue patterns (₹1.16M peak vs ₹0.45M low) surface kiye aur C-level audience ke liye 4-chart interactive dashboard banaya.
+
+- **InsightFlow — Data Analytics Summarizer** `n8n` `Ollama` `REST APIs`  
+  Webhook-triggered pipeline jo raw CSVs ko extract, transform aur local LLM ke zariye executive summary mein instantly convert karti hai.
+
+- **AttritionIQ — Employee Attrition Prediction** `TensorFlow` `SMOTE` `React`  
+  Severe class imbalance ko SMOTE se resolve karke 4-layer ANN model (83% accuracy) train kiya aur HR decision-makers ke liye real-time React simulator banaya.
+
+- **Personality Type Classifier** `Scikit-learn` `Python`  
+  20,000 behavioral records par 4 models compare kiye; custom skewness-based null imputation ke saath Random Forest mein **99.75% accuracy** deliver ki.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=curiosity-matrix&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiosity-matrix&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
