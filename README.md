@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ritika-singh-b07baa329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ritika-singh-b07baa329" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:77ritikasingh77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank_SQL-5★_Gold-00EA64?style=flat&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/77ritikasingh77" target="_blank"><img src="https://img.shields.io/badge/HackerRank_SQL-5★_Gold-00EA64?style=flat&logo=hackerrank&logoColor=black" /></a>
   <img src="https://komarev.com/ghpvc/?username=curiosity-matrix&label=Views&color=555555&style=flat" />
 </p>
 
@@ -15,7 +15,6 @@
 > *"Curiosity uncovers the hidden pattern; analytical rigor turns it into truth."*
 
 ---
-
 ### 🧠 How My Mind Works (The Problem-Solving Loop)
 
 Main kisi problem ko sirf code likh kar solve nahi karti, mera approach ek structured thought-process par chalta hai:
