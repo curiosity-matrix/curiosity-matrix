@@ -4,9 +4,9 @@
 </p>
 
 <div align="center">
-  <!-- Live Typing Effect -->
+  <!-- Smooth Live Typing Animation -->
   <a href="https://github.com/curiosity-matrix">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=64DFDF&center=true&vCenter=true&random=false&width=620&lines=%22I+talk+to+my+code+like+it's+a+person...%22;%22...and+honestly%2C+it+listens+better+than+most+people+do+%F0%9F%98%84%22;Data+Analyst+%E2%80%A2+SQL+5%E2%98%85+Gold+%E2%80%A2+AI%2FML+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=64DFDF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Clean+Intelligence+%F0%9F%94%8D;Building+Automated+Pipelines+with+n8n+%26+LLMs+%E2%9A%A1;SQL+5%E2%98%85+Gold+HackerRank+%E2%80%A2+AI%2FML+Builder+%F0%9F%A7%A0;%22I+talk+to+my+code+like+it's+a+person...%22+%F0%9F%98%84" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -23,15 +23,14 @@
 
 > *"Curiosity asks the question; analytical rigor audits the answer."*
 
-GitHub renders this flowchart natively to show recruiters your thinking process from raw chaos to clean intelligence:
-
 ```mermaid
-flowchart LR
-    A["💡 1. Curiosity & Hypothesis<br/>(Spotting anomalies & raw data)"] 
-    --> B["🔍 2. Ruthless Validation<br/>(Null imputation, skewness, sanity checks)"]
-    --> C["⚡ 3. SQL & Pattern Mining<br/>(Window functions, CTEs, clustering)"]
-    --> D["🤖 4. Model Architecture<br/>(SMOTE, Random Forest, ANN, Tuning)"]
-    --> E["📊 5. Autonomous Delivery<br/>(Executive Power BI & n8n/LLM pipelines)"]
+%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true, 'background': '#0d1117' }}}%%
+flowchart TD
+    A["💡 1. Curiosity & Hypothesis<br/>Spotting anomalies & raw patterns"] 
+    --> B["🔍 2. Ruthless Validation<br/>Null imputation, skewness checks, sanity audits"]
+    --> C["⚡ 3. SQL & Pattern Mining<br/>Window functions, CTEs, segment analysis"]
+    --> D["🤖 4. Model Architecture<br/>SMOTE, Random Forest, ANN, Hyperparameter Tuning"]
+    --> E["📊 5. Autonomous Delivery<br/>Executive Power BI Dashboards & n8n / LLM Pipelines"]
 
     style A fill:#0b132b,stroke:#64dfdf,stroke-width:2px,color:#fff
     style B fill:#1c2541,stroke:#48cae4,stroke-width:2px,color:#fff
